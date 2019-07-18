@@ -1,3 +1,19 @@
+"""
+A program that stores the book information:
+Title,Author
+Year,ISBN
+
+User can
+
+View all records
+Seacrh an Entry
+Add Entry
+Update Entry
+Delete Entry
+Close
+
+"""
+
 from tkinter import *
 import backend
 
